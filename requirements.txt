@@ -5,4 +5,4 @@ seaborn
 scikit-learn
 nltk
 streamlit
-altair.vegalite.v4
+altair.vegalite
